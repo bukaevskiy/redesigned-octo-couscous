@@ -1,0 +1,14 @@
+{
+  "name": "Custom Theme",
+  "description": "Custom theme with Cyrillic support",
+  "styles": {
+    "elements": [
+      {
+        "tag": "Element",
+        "font": {
+          "name": "Arial" 
+        }
+      }
+    ]
+  }
+}
